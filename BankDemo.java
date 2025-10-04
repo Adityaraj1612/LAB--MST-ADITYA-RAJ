@@ -60,7 +60,7 @@ public class BankDemo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        BankAccount account = new BankAccount("123456789", "Shivam Kumar", 1000000.0, 4321);
+        BankAccount account = new BankAccount("90277", "ADITYA RAJ", 1000000.0, 2476);
 
         account.displayAccountInfo();
 
